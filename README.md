@@ -1,2 +1,12 @@
 # AUTOMATED-IRRIGATION-SYSTEM-SOFTWARE
 This programming code simplifies the use  and installation of Automated Irrigation Systems in any Country.
+The software is owned by:
+       * By DR. MICHAEL OLAWUYI AND DR. ESTHER OLAWUYI
+       * DR. JASON M. ZARA, DR. VESNA ZDERIC, DR. MURRAY LOEW, DR. AHMED JENDOUBI, DR. GARY HARRIS,
+       * MR. JAMES GRIFFIN, DR. MOHAMED CHOUIKHA, DR. SHANI ROSS, ENGINEER FRANCIS OLAWUYI, ENGINEER JOSHUA OLAWUYI, ENGINEER DEBORAH OLAWUYI,
+       * ENGINEER JOSEPH OLAWUYI, DR. MATTHEW OLAWUYI, DR. MICHAEL OLAWUYI, AND HONORABLE DAMILOLA SUNDAY OLAWUYI.
+       * tegae@gwmail.gwu.edu
+       * OLAWUYI RACETT NIGERIA LTD., KEMP HOUSE, 160 CITY ROAD, EC1V 2NX, LONDON, UNITED KINGDOM
+       * https://www.olawuyiracettnigerialtd.com
+       * July 19, 2023.
+       *   
